@@ -1,8 +1,13 @@
-# EDA--Analysis---Titanic-Kaggle-Dataset
 
-# # Initial Data Exploration
-Handling Missing Values and Outliers
-Univariate Analysis
-Bivariate Analysis
-Multivariate Analysis
-Target Variable Analysis
+# EDA – Analysis of Titanic Kaggle Dataset
+
+This project performs **Exploratory Data Analysis (EDA)** on the Titanic dataset from Kaggle.
+
+### EDA Steps:
+
+1. **Initial Data Exploration**
+2. **Handling Missing Values and Outliers**
+3. **Univariate Analysis**
+4. **Bivariate Analysis**
+5. **Multivariate Analysis**
+6. **Target Variable Analysis**
